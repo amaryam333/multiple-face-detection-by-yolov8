@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/project/mul_f_det/train/images
+val: /content/drive/MyDrive/project/mul_f_det/val/images
+test: /content/drive/MyDrive/project/mul_f_det/test
+
+nc: 1
+names: ['face']
